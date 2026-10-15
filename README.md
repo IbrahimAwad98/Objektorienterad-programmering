@@ -1,26 +1,26 @@
-# Objektorienterad programmering (Java) 
+# Object-Oriented Programming (Java)
 
-Det här repot innehåller exempel och övningar i **objektorienterad programmering (OOP)** med fokus på **Java**. Materialet är uppdelat i mindre kodexempel (t.ex. i mappen `Lessons/`) och olika uppgifter/varianter i mappar som börjar på `TEN...`.
+Examples and exercises in object-oriented programming with Java. Small code examples live in `Lessons/`. Exam and lab variants live in folders that start with `TEN`.
 
-## Innehåll 
-Exempel på områden som repot berör:
+## Topics
 
-- Klasser & objekt 
-- Arv (inheritance) 
-- Interface & polymorfism 
-- Inkapsling (encapsulation) 
-- Undantag (exceptions) 
-- Enkla datastrukturer (t.ex. listor/stack) 
+- Classes and objects
+- Inheritance
+- Interfaces and polymorphism
+- Encapsulation
+- Exceptions
+- Simple data structures (lists, stacks)
 
-## Struktur 
-- `Lessons/` – samling av mindre lektionskod och exempel (t.ex. `BankAccount`, `Animal`, `Shape`, m.m.)
-- `TENYYYYMMDD/` – mappar för olika uppgifter/tentor/labb-varianter (namngivna efter datum)
+## Structure
 
-## Kom igång 
+- `Lessons/` - short lesson code and examples (`BankAccount`, `Animal`, `Shape`, and more)
+- `TENYYYYMMDD/` - exam and lab variants, named by date
 
-### Krav 
-- Java (JDK) installerat (t.ex. Java 17+ rekommenderas)
-- Valfri IDE: IntelliJ IDEA / Eclipse / VS Code
+## Getting started
 
-## Mål 
-Syftet är att samla och träna på OOP-koncept genom konkreta, små och tydliga Java-exempel.
+- Java JDK (17 or newer recommended)
+- Any IDE: IntelliJ IDEA, Eclipse, or VS Code
+
+## Goal
+
+Practice OOP with small, clear Java examples.
